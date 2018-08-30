@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d426e2d-626b-4b48-a9d7-5af64420c996" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo13/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo13/src/emp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo14/src/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo14/src/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo15/public/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo15/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/demo15/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo15/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/demo15/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo15/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo15/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo15/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo15/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo15/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo15/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,33 +31,33 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="2" />
-          <entry key="html" value="2" />
-          <entry key="js" value="26" />
+          <entry key="css" value="3" />
+          <entry key="html" value="3" />
+          <entry key="js" value="29" />
           <entry key="php" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="2" />
-          <entry key="HTML" value="2" />
-          <entry key="JavaScript" value="26" />
+          <entry key="CSS" value="3" />
+          <entry key="HTML" value="3" />
+          <entry key="JavaScript" value="29" />
           <entry key="PHP" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="167" />
-          <entry key="html" value="40" />
-          <entry key="js" value="4493" />
+          <entry key="css" value="236" />
+          <entry key="html" value="55" />
+          <entry key="js" value="5012" />
           <entry key="php" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="167" />
-          <entry key="HTML" value="40" />
-          <entry key="JavaScript" value="4493" />
+          <entry key="CSS" value="236" />
+          <entry key="HTML" value="55" />
+          <entry key="JavaScript" value="5012" />
           <entry key="PHP" value="2" />
         </counts>
       </usages-collector>
@@ -64,42 +66,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo14/src/Login.js">
+        <entry file="file://$PROJECT_DIR$/demo15/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo14/src/home.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="306">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo14/src/App.js">
+        <entry file="file://$PROJECT_DIR$/demo15/public/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="102">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo15/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
-                <element signature="e#0#41#0" expanded="true" />
+                <element signature="e#0#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo14/src/index.js">
+        <entry file="file://$PROJECT_DIR$/demo15/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -143,6 +143,11 @@
         <option value="$PROJECT_DIR$/demo14/src/home.js" />
         <option value="$PROJECT_DIR$/demo14/src/Login.js" />
         <option value="$PROJECT_DIR$/demo14/src/App.css" />
+        <option value="$PROJECT_DIR$/demo15/src/style.css" />
+        <option value="$PROJECT_DIR$/demo15/public/index.html" />
+        <option value="$PROJECT_DIR$/demo15/src/index.js" />
+        <option value="$PROJECT_DIR$/demo15/src/App.js" />
+        <option value="$PROJECT_DIR$/demo15/public/css/style.css" />
       </list>
     </option>
   </component>
@@ -158,6 +163,8 @@
     <handled-path value="$PROJECT_DIR$/demo12/node_modules" />
     <handled-path value="$PROJECT_DIR$/demo13/node_modules" />
     <handled-path value="$PROJECT_DIR$/demo14/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demo15/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demo16/node_modules" />
     <handled-path value="$PROJECT_DIR$/demo2/node_modules" />
     <handled-path value="$PROJECT_DIR$/demo3/node_modules" />
     <handled-path value="$PROJECT_DIR$/demo4/node_modules" />
@@ -175,6 +182,7 @@
       <path value="$PROJECT_DIR$/demo13/package.json" />
       <path value="$PROJECT_DIR$/demo14/package.json" />
       <path value="$PROJECT_DIR$/demo15/package.json" />
+      <path value="$PROJECT_DIR$/demo16/package.json" />
       <path value="$PROJECT_DIR$/demo2/package.json" />
       <path value="$PROJECT_DIR$/demo3/package.json" />
       <path value="$PROJECT_DIR$/demo4/package.json" />
@@ -274,6 +282,23 @@
               <item name="ReactJS" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
+            <path>
+              <item name="ReactJS" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="demo15" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ReactJS" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="demo15" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="public" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ReactJS" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="demo15" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -290,6 +315,9 @@
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.composer" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\bai tap\ReactJS\demo15\public\css" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\bai tap\ReactJS\demo13\src" />
       <recent name="D:\bai tap\ReactJS" />
@@ -318,12 +346,12 @@
       <option name="presentableId" value="Default" />
       <updated>1535511667866</updated>
       <workItem from="1535511669766" duration="4665000" />
-      <workItem from="1535516421016" duration="15461000" />
+      <workItem from="1535516421016" duration="18806000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20126000" />
+    <option name="totallyTimeSpent" value="23471000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1087" extended-state="0" />
@@ -566,15 +594,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo14/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo14/src/Login.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -598,11 +617,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo14/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo14/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo15/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo15/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo15/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo15/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
