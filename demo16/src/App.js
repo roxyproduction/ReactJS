@@ -1,21 +1,32 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import LoaderHOC from './hoc/loader';
+import Emp from './emp';
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
-        </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
-      </div>
-    );
-  }
+
+class App extends React.Component {
+    state={
+        emps:[
+            {id:101,name:'Paul',salary:5000},
+            {id:102,name:'Sam',salary:2000},
+            {id:103,name:'Sid',salary:2500},
+            {id:104,name:'John',salary:5000},
+            {id:105,name:'Alice',salary:4000}
+        ]
+    }
+    render() {
+        return (
+            <div>
+                <table border="1">
+                    <tbody>
+                    {
+                        this.state.emps.map((emp)=>{
+                            return (<Emp salary = {emp.salary} key={emp.id}>{emp.name}</Emp>)
+                        })
+                    }
+                    </tbody>
+                </table>
+            </div>
+        );
+    }
 }
-
-export default App;
+export default LoaderHOC('emps')(App);
